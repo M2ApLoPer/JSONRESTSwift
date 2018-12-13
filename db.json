@@ -1,0 +1,11 @@
+{ 
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "hello",
+      "body": "How are you all today?"
+    }
+  ]
+}
+    
